@@ -1,0 +1,10 @@
+<select id="langs" name="languages" [(ngModel)]="selectedLang" #mySelect
+(change)='onOptionsSelected(mySelect.value)'>
+  <option *ngFor="let item of langArray" [value]="item">
+    {{item}}
+  </option>    
+</select>
+
+<app-test-component>
+
+</app-test-component>

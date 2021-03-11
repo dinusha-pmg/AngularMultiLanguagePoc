@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="3213532987466248668" datatype="html">
+        <source>test-component works!</source>
+        <target>පරීක්ෂණ සංරචක ක්‍රියා කරයි!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/test-component/test-component.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">text that added to test I18N</note>
+        <note priority="1" from="meaning">test paragraph</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
